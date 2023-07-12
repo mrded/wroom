@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Dmitry Demenchuk',
   headerTitle: 'Wroom',
   description:
-    'The meaning of the name could be "We Ride On Our Motorbikes" or "We Run Out Of Money" but it remains unknown to everyone.',
+    'The meaning of the name could be "We Ride On Our Motorbikes" but it remains unknown to everyone.',
   language: 'en-gb',
   theme: 'system', // system, dark or light
   siteUrl: 'https://wroom.uk',
