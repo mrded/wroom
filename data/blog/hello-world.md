@@ -1,6 +1,11 @@
 ---
-name: WROOM
-avatar: /static/images/avatar.png
+title: Hello World
+date: '2023-07-12'
+tags: []
+draft: false
+summary: This is a very first message on the website
+images: []
+authors: ['mrded']
 ---
 
 The motivation for creating this website stems from the need to streamline and organise the often chaotic conversations that take place in our WhatsApp group. Here, we aim to provide a centralised platform where we can combine and summarise these discussions, making it easier for everyone to stay informed and engaged.
