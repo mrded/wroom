@@ -1,6 +1,6 @@
 ---
 name: Dmitry Demenchuk
-avatar: /static/images/avatar.png
+avatar: /static/images/mrded.png
 location: North London
 bike: Honda CB1100RS 2018
 ---
