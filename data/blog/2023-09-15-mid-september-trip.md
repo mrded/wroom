@@ -29,7 +29,7 @@ I've filtered out all options without shower and toilet.
 
 ### Fauvorite options
 - https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
-    - £20 total per group for a pitch, £5 per person. (multiple tents are allowerd per pitch)
+    - £20 total per person for a pitch. (multiple tents are allowerd per pitch)
 - https://www.pitchup.com/campsites/England/Central/Derbyshire/hurdlow/the-bull-i-thorn/
     - Bell tent for 4 people £120 total. Good option, just £30 per person, no need to carry a tent.
     - £60 total per person for a pitch.
