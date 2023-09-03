@@ -23,3 +23,18 @@ TODO: find camping.
 - Ivy
 - Sam
 - Yury 
+
+## Camping options
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Bakewell/mandale-campsite/
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/hill-wood-view/
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Buxton/mere_farm_campsite/
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/wardlow/five_acres_farm_campsite/
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/hurdlow/the-bull-i-thorn/
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Buxton/the-royal-oak_/
+    - campsite is next to a pub
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Buxton/duke-of-york/
+    - campsite is next to a pub
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
+    - If you want to leave your tent at home
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/dronfield/unthank-lane-farm/
+    - If you want to leave your tent at home
