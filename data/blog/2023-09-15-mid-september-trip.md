@@ -15,26 +15,34 @@ authors: ['mrded']
 
 Peak District
 
-TODO: find camping.
-
 ## Who?
 
 - Dmitry 100%
 - Ivy 100%
 - Sam 100%
-- Yury (50% TBC)
+- Yury 100%
 
 ## Camping options
-I've filtered out all options without shower and toilet.
 
-### Fauvorite options
-- https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
-    - £20 total per person for a pitch. (multiple tents are allowerd per pitch)
-- https://www.pitchup.com/campsites/England/Central/Derbyshire/hurdlow/the-bull-i-thorn/
-    - Bell tent for 4 people £120 total. Good option, just £30 per person, no need to carry a tent.
-    - £60 total per person for a pitch.
+We will be staing at [The Bull i' th' Thorn](https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
+) camp side.
+
+Address: Ashbourne Road, Hurdlow, Derbyshire, England, SK17 9QQ
+Phone: +44 1298 83718
+
+15-16 Sept. 
+We have booked a Bell tent for 4 people. So that we can arrive late and not worring about making a tent during a night.
+Bell tent is £60 per night, shared with 4 people.
+
+We still need to book 16-17 Sept night. And decide if we want to stain in a Bell tent or our own tents.
+
+If we want to book a pitch for own tent, it's £30 per night.
 
 ### Other options:
+I've filtered out all options without shower and toilet.
+
+- https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
+    - £20 total per person for a pitch. (multiple tents are allowerd per pitch)
 - https://www.pitchup.com/campsites/England/Central/Derbyshire/dronfield/unthank-lane-farm/
     - £32 total per person for a pitch, 5 left.
 - https://www.pitchup.com/campsites/England/Central/Derbyshire/Bakewell/mandale-campsite/
