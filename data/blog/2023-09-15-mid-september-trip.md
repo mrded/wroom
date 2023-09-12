@@ -15,6 +15,13 @@ authors: ['mrded']
 
 Peak District
 
+Ideas:
+- http://web.archive.org/web/20230330064437/https://www.adventurebikerider.com/ultimate-motorcycling-route-peak-district/
+- https://www.adventurebikerider.com/forum/viewtopic.php?f=143&t=45491&sid=46a3f76fad3033e3f4cef42aaee8b22b
+
+Here is our collaboration map:
+- https://www.google.com/maps/d/edit?mid=1gskYnlEmhkpAFIT2oZWKHFxSGtgE8fg&usp=sharing
+
 ## Who?
 
 - Dmitry 100%
@@ -23,7 +30,9 @@ Peak District
 - Yury 100%
 - Nicole 50%
 
-## Camping options
+## How?
+
+### Camping options
 
 We will be staing at [The Bull i' th' Thorn](https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
 ) camp side.
@@ -53,7 +62,3 @@ I've filtered out all options without shower and toilet.
 - https://www.pitchup.com/campsites/England/Central/Derbyshire/Buxton/the-royal-oak_/
     - £50 total per person.
     - campsite is next to a pub
-
-## Map with points
-
-https://www.google.com/maps/d/edit?mid=1gskYnlEmhkpAFIT2oZWKHFxSGtgE8fg&usp=sharing
