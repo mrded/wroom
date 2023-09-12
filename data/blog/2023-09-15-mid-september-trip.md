@@ -43,7 +43,9 @@ We will be staing at [The Bull i' th' Thorn](https://www.pitchup.com/campsites/E
 We are going to book 2 Bell tents for two nights 15-17 Sept. TBC.
 That gives us a room for 8 people.
 
-At the moment we have booked only one Bell tent for 4 people for the first night. So that we can arrive late and not worring about making a tent during a night.
+At the moment we have booked one Bell tent for the first night. 
+And another bell tent booked for both nights.
+
 Bell tent is £60 per night, shared with 4 people.
 
 There still an option to book a pitch for own tent, it's £30 per night. A pitch can be shared between two bikes/tents.
