@@ -28,10 +28,10 @@ Peak District
 We will be staing at [The Bull i' th' Thorn](https://www.pitchup.com/campsites/England/Central/Derbyshire/Matlock/middlehills-farm-campsite/
 ) camp side.
 
-Address: Ashbourne Road, Hurdlow, Derbyshire, England, SK17 9QQ
-Phone: +44 1298 83718
+- Address: Ashbourne Road, Hurdlow, Derbyshire, England, SK17 9QQ
+- Phone: +44 1298 83718
 
-We are going to book 2 Bell tents for two nights 15-17. TBC.
+We are going to book 2 Bell tents for two nights 15-17 Sept. TBC.
 That gives us a room for 8 people.
 
 At the moment we have booked only one Bell tent for 4 people for the first night. So that we can arrive late and not worring about making a tent during a night.
