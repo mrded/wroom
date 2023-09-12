@@ -21,6 +21,7 @@ Peak District
 - Ivy 100%
 - Sam 100%
 - Yury 100%
+- Nicole 50%
 
 ## Camping options
 
@@ -30,13 +31,13 @@ We will be staing at [The Bull i' th' Thorn](https://www.pitchup.com/campsites/E
 Address: Ashbourne Road, Hurdlow, Derbyshire, England, SK17 9QQ
 Phone: +44 1298 83718
 
-15-16 Sept. 
-We have booked a Bell tent for 4 people. So that we can arrive late and not worring about making a tent during a night.
+We are going to book 2 Bell tents for two nights 15-17. TBC.
+That gives us a room for 8 people.
+
+At the moment we have booked only one Bell tent for 4 people for the first night. So that we can arrive late and not worring about making a tent during a night.
 Bell tent is £60 per night, shared with 4 people.
 
-We still need to book 16-17 Sept night. And decide if we want to stain in a Bell tent or our own tents.
-
-If we want to book a pitch for own tent, it's £30 per night.
+There still an option to book a pitch for own tent, it's £30 per night. A pitch can be shared between two bikes/tents.
 
 ### Other options:
 I've filtered out all options without shower and toilet.
