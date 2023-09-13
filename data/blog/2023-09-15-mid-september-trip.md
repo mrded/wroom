@@ -28,6 +28,8 @@ Here is our collaboration map:
 - Ivy 100%
 - Sam 100%
 - Yury 100%
+- John 60% (TBC)
+- Harry 50% (brewing)
 - Nicole 50% (may join us for one night)
 
 ## How?
