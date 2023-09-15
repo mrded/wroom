@@ -153,7 +153,6 @@ links:
 - Yury 100%
 - Alex 100%
 - Harry 50% (brewing)
-- Nicole 50% (may join us for one night)
 
 ## How?
 
