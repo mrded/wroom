@@ -142,7 +142,7 @@ Enter the following waypoints into your SatNav:
 
 ----
 links:
-- http://web.archive.org/web/20230330064437/https://www.adventurebikerider.com/ultimate-motorcycling-route-peak-district/
+- Ultimate motorcycling route Peak District [web archive](http://web.archive.org/web/20230330064437/https://www.adventurebikerider.com/ultimate-motorcycling-route-peak-district/)
 - [ABR Issue 44 Route Files: The Peak District Discovery Route](https://www.adventurebikerider.com/forum/viewtopic.php?f=143&t=45491&sid=46a3f76fad3033e3f4cef42aaee8b22b)
 
 ## Who?
