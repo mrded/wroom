@@ -5,7 +5,7 @@ tags: ['trip']
 draft: false 
 summary: Long week trip to Austrian alps
 images: []
-authors: ['zalex007', 'mrded', 'joe']
+authors: ['zalex007', 'mrded', 'jaamin67']
 ---
 ## When?  
 
