@@ -18,9 +18,9 @@ authors: ['zalex007', 'mrded', 'jaamin67']
 
 This is an approximate route we're planning to do
 
-![](https://habrastorage.org/webt/mq/ef/so/mqefso6-edsqwsyn9osntllusky.jpeg)
+to be updated
 
-Austria track. Highlighted the best bits
+Previous trip to Austria by one of the members. Blue is a track. Highlighted the best bits
 
 ![](https://habrastorage.org/webt/3s/co/bg/3scobgcjnfj_elt_pw5onkwrpd8.jpeg)
 
