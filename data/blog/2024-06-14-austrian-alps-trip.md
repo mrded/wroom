@@ -28,6 +28,8 @@ Recommended places Walchsee, Timmelsjoch mountain pass for Europe's Hughes motor
 
 Details https://www.madornomad.com/6-things-to-do-on-an-austria-motorcycle-tour/
 
+Also suggest we begin the Alberg am Waald region, which western Austria, to explore the Lech/St. Anton area
+
 ## Who?
 
 - Dmitry: 50%
