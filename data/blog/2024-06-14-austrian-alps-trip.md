@@ -25,6 +25,7 @@ Previous trip to Austria by one of the members. Blue is a track. Highlighted the
 ![](https://habrastorage.org/webt/3s/co/bg/3scobgcjnfj_elt_pw5onkwrpd8.jpeg)
 
 Recommended places Walchsee, Timmelsjoch mountain pass for Europe's Hughes motorcycle museum, Eisriesenwelt: The World’s Largest Ice Cave, Kehlsteinhaus: The Eagle’s Nest
+
 Details https://www.madornomad.com/6-things-to-do-on-an-austria-motorcycle-tour/
 
 ## Who?
