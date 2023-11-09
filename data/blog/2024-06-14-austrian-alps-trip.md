@@ -31,7 +31,9 @@ We can do rides that will take us a bit into Italy and Switzerland over a few am
 
 ![](https://i.ibb.co/SNjZxCm/PXL-20230602-182917095.jpg)
 
-This is an approximate _travel_ route we're planning to do, without all the rides mapped
+![](https://i.ibb.co/NKh7Yfk/PXL-20230531-150820498.jpg)
+
+This is an approximate _travel_ route we're planning to do, without all the rides mapped. The idea is to quickly ride through France, Belgium, Germany with priority on Austria. Same on the way back.
 
 ![](https://i.ibb.co/N1Ym9TX/2023-11-09-13-54.png)
 
