@@ -11,7 +11,7 @@ authors: ['zalex007', 'mrded', 'jaamin67']
 
 ## When?  
 
-**Duration:** 14-23 June 2024
+**Duration:** 14-23 June 2024, 9.5 days
 
 **Departure:** Friday, 14th June after work (~5 PM)
 
@@ -57,7 +57,9 @@ Also suggest we begin the Alberg am Waald region, which western Austria, to expl
 ## How?
 
 Quick ride through France, Belgium with priority on Austria
+
 Depending on mileage might stop in Germany too near Black Forest which is a nice area to ride anyway.
+Similar thing on thw way back we might stop in Colmar which is a very pretty French town.
 
 Staying in hotels
 
