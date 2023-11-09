@@ -18,9 +18,9 @@ authors: ['zalex007', 'mrded', 'jaamin67']
 
 **Main Destination:** Austrian Alps
 
-This is an approximate route we're planning to do
+This is an approximate _travel_ route we're planning to do, without all the rides mapped
 
-to be updated
+![](https://i.ibb.co/4tFr6qq/2023-11-09-13-43.png)
 
 Previous trip to Austria by one of the members. Blue is a track. Highlighted the best bits
 
@@ -40,6 +40,11 @@ Also suggest we begin the Alberg am Waald region, which western Austria, to expl
 - Sergey: 100%
 
 ## How?
+
+Quick ride through France, Belgium with priority on Austria
+Depending on mileage might stop in Germany too near Black Forest which is a nice area to ride anyway.
+
+Staying in hotels
 
 Bellow is a draft plan of what we want to do:
 
