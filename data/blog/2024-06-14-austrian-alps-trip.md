@@ -20,7 +20,9 @@ authors: ['zalex007', 'mrded', 'jaamin67']
 
 This is an approximate _travel_ route we're planning to do, without all the rides mapped
 
-![](https://i.ibb.co/4tFr6qq/2023-11-09-13-43.png)
+![](https://i.ibb.co/N1Ym9TX/2023-11-09-13-54.png)
+
+https://www.google.com/maps/dir/Calais,+France/Valenciennes,+France/Black+Forest,+Germany/Uttendorf,+Austria/Landeck,+Austria/Freiburg+im+Breisgau,+Germany/Colmar,+France/Calais,+France/@49.0344541,4.5673029,7z/data=!3m1!4b1!4m55!4m54!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.8540644!2d50.9476487!1m5!1m1!1s0x47c2edc768b409b3:0xb5f4dcec0bfdf494!2m2!1d3.518332!2d50.357113!1m10!1m1!1s0x4790ec232f1791bd:0xdbe2bec8ae87edf1!2m2!1d8.185997!2d48.2774862!3m4!1m2!1d10.8269453!2d47.4182537!3s0x479cfb485df47535:0x5792d84f399198cc!1m5!1m1!1s0x47770741ddfe0d47:0xadb8c4c333845708!2m2!1d12.5724671!2d47.2821635!1m5!1m1!1s0x479cc5bef45cb481:0xf4e50a98a1bc1662!2m2!1d10.56558!2d47.14057!1m5!1m1!1s0x47911b26560bd665:0x41f6bb7a5df57b0!2m2!1d7.8421043!2d47.9990077!1m5!1m1!1s0x479165dff670c1cf:0xe35d7e3e616ce966!2m2!1d7.358512!2d48.0793589!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.8540644!2d50.9476487!3e0?entry=ttu
 
 Previous trip to Austria by one of the members. Blue is a track. Highlighted the best bits
 
