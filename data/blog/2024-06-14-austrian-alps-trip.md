@@ -36,7 +36,8 @@ Also suggest we begin the Alberg am Waald region, which western Austria, to expl
 
 - Dmitry: 80%
 - Alex: 100%
-- Joe: 50% 
+- Joe: 50%
+- Sergey: 100%
 
 ## How?
 
