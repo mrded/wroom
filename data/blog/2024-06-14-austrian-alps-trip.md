@@ -5,7 +5,7 @@ tags: ['trip']
 draft: false 
 summary: Long week trip to Austrian alps
 images: []
-authors: ['zalex007', 'mrded', 'jaamin67']
+authors: ['zalex007']
 ---
 ## This is work in progress and things might change
 
@@ -15,7 +15,7 @@ authors: ['zalex007', 'mrded', 'jaamin67']
 
 **Departure:** Friday, 14th June after work (~5 PM)
 
-**Return:** Sunday, 23th June in the evening
+**Return:** TBD, Saturday or Sunday, in the late vening
 
 ## Where?
 
@@ -53,10 +53,10 @@ Also suggest we begin the Alberg am Waald region, which western Austria, to expl
 
 ## Who?
 
-- Dmitry: 80%
-- Alex: 100%
-- Joe: 50%
-- Sergey: 100%
+- Alex Z
+- Sergey
+- Sam
+- Alex F
 
 ## How?
 
