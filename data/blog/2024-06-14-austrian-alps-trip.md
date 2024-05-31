@@ -11,11 +11,11 @@ authors: ['zalex007']
 
 ## When?  
 
-**Duration:** 14-23 June 2024, 9.5 days
+**Duration:** 14-22 June 2024, 8.5 days
 
-**Departure:** Friday, 14th June after work (~5 PM)
+**Departure:** Friday, 14th June after work (~4 PM)
 
-**Return:** TBD, Saturday or Sunday, in the late vening
+**Return:** Saturday 22June late. Sunday - rest at home before work
 
 ## Where?
 
@@ -55,7 +55,6 @@ Also suggest we begin the Alberg am Waald region, which western Austria, to expl
 
 - Alex Z
 - Sergey
-- Sam
 - Alex F
 
 ## How?
@@ -70,12 +69,12 @@ Staying in hotels
 Bellow is a draft plan of what we want to do:
 
 The plan is: (subject to change!)
-- Leaving Friday 14th after work, getting to France.
-- Saturday 15th, all day riding to Austria by fast routes.
+- Leaving Friday 14th after work, getting to Belgoim
+- Saturday 15th, riding to Baden Baden in Black forest
 - We are planning to rent two hotels in Austria, staying 3 days in each, exploring the area around.
-- Saturday 21st, free day, potential rest day or local exploration based on group energy levels.
-- Saturday 22nd, all day riding to France, stay over night in a hotel.
-- Sunday 23rd, getting home
+- Saturday 21st, riding back, staying in Colmar, France
+- Saturday 22nd, riding home
+- Sunday 23rd, day of rest at home
 
 ## How much?
 
