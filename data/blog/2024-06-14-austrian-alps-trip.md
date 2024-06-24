@@ -7,7 +7,6 @@ summary: Long week trip to Austrian alps
 images: []
 authors: ['zalex007']
 ---
-## This is work in progress and things might change
 
 ## When?  
 
@@ -88,3 +87,18 @@ The plan is: (subject to change!)
 
 **Note:**
 Once we have a confirmed number of participants, we can look into booking an apartment for 3 or 4 people to reduce accommodation costs.
+
+
+**Actual costs:**
+
+* person 1 example: £1070
+* person 2 example, see breakdown: £1063
+```
+Total cost for 8 days £1063
+Subtotals
+Channel crossing £111
+Breakdown insurance £33
+Toll roads £34
+Petrol £160
+Hotels 8 nights £353
+Food, souvenirs and everything else £372
