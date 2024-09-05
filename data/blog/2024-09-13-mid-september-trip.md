@@ -18,6 +18,12 @@ Peak District
 
 ![](https://habrastorage.org/webt/qo/xy/9m/qoxy9mzprpuwqx3mtyyqmuq-7pi.jpeg)
 
+### Staying
+Staying overnight at Harry's 
+Rough location 
+Dungworth, S6 6HF near Sheffield
+
+## Copy paste from 2023 below
 ### Lud’s Church
 
 ![](https://habrastorage.org/webt/oo/mw/hg/oomwhgvdenh8ljopowsdqpa8c4s.jpeg)
