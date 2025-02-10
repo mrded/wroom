@@ -23,16 +23,16 @@ Cost Estimate: £1,500 per person (includes ferry, food, fuel, and 2 nights’ a
 
 ## Transport
 
-Return ferry from Portsmouth to Santander (£500 per person with a motorcycle and shared cabin). Ride from Bilboa to Salobrena in the south, which is around 600 miles depending on the route. 
+Return ferry from Portsmouth to Bilbao (aprox £500 per person with a motorcycle and shared cabin). Ride from Bilbao to Salobrena in the south, which is around 600 miles depending on the route. 
 
 ### Staying
 
-2 nights accommodation needed in the north of Spain, near Bilbao for the ferry. Probably around the Rioja area. The remaining 4 or 5 nights will be at my apartment on the beach in Salobrena, which will serve as our base. There'll be no cost for this. You'll just need to cover your food and drink at local cafes & bars. I can accommodate 5 people. If there are more than 5, local accommodation will need to be rented at additional cost.
+2 nights accommodation needed in the north of Spain (1 night each way). The remaining 4 or 5 nights will be at my apartment on the beach in Salobrena, which will serve as our base. There'll be no cost for this. You'll just need to cover your food and drink at local cafes & bars. I can accommodate 5 people. If there are more than 5, local accommodation will need to be rented at additional cost.
 
 
 ### Navigation
 
-Route from Bilbao to Salobrena (do this over a 2 day ride to take in some of northern Spain). Day trips Routes Salobrena to places such as Rhonda, Capileira and beaches on the south coast.
+Route from Bilbao to Salobrena (do this over a 2 day ride to take in some of northern/central Spain). Day trips from Salobrena to places such as Rhonda, Capileira, Sierra Nevada and beaches on the south coast via some great roads, of course
 
 
 ## Places to Visit
@@ -49,7 +49,7 @@ Cantabria - Hoznayo
 
 ### South of Spain - Andalusia Province
 Salobrena - our base in the South of Spain
-![Salobrena_Andalusia_Spain_c2baa723ef](https://github.com/user-attachments/assets/aa0e1aac-91ba-48ca-8a18-9ca27b490edd)
+<img src="https://github.com/user-attachments/assets/aa0e1aac-91ba-48ca-8a18-9ca27b490edd" height="500">
 
 The coastline of Salobrena
 ![salo beach](https://github.com/user-attachments/assets/fb5c4021-21ab-4ae2-a005-9f6ea7d3ab5b)
@@ -61,16 +61,16 @@ Rhonda - Stunning town built on a gorge
 ![spain-ronda-bridge](https://github.com/user-attachments/assets/30a17931-a02f-4f8a-a6d0-c383e17f903b)
 
 Unlimited all you can eat paella at Ayo's in Nerja
-![ayo](https://github.com/user-attachments/assets/91fe3d64-5775-48f4-92ea-2d29e86a5411)
+<img src="https://github.com/user-attachments/assets/91fe3d64-5775-48f4-92ea-2d29e86a5411" height="400">
 
 
 ### The Roads
 
-Link to the motorcycle roads of Spain - Motorcycle Diaries
-https://motorcycle-diaries.com/en/roads
+Link to the motorcycle roads of Spain [Motorcycle Diaries](https://motorcycle-diaries.com/en/roads).
 
 The mountain roads
-![a-397-motorcyclists](https://github.com/user-attachments/assets/747847bf-a1b8-4d27-877d-472088e9b141)
+
+<img src="https://github.com/user-attachments/assets/6b1c9898-6b9c-4f3d-a49d-b96e65f3392c" height="300">
 
 Bacares to Velifique road
 ![Bacares - Velifique](https://github.com/user-attachments/assets/67c68e86-3df2-45c9-aa15-d0240ad6566a)
