@@ -23,7 +23,7 @@ Cost Estimate: £1,500 per person (includes ferry, food, fuel, and 2 nights’ a
 
 ## Transport
 
-Return ferry from Portsmouth to Santander (£500 per person with a motorcycle and shared cabin)
+Return ferry from Portsmouth to Santander (£500 per person with a motorcycle and shared cabin). Ride from Bilboa to Salobrena in the south, which is around 600 miles depending on the route. 
 
 ### Staying
 
