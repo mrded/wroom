@@ -15,7 +15,7 @@ Duration: 10 days (7 days riding in Spain, 3 days on a ferry crossing)
 
 ## Where?
 
-2 nights in the north of Spain - most probably staying in the Rioja region. 4 or 5 nights staying the South of Spain at my place in Salobrena.Trips to Nerja (Ayo's amazing paella place on the berach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira)
+2 nights in the north of Spain - most probably staying in the Rioja region. 4 or 5 nights staying the South of Spain at my place in Salobrena.Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira)
 
 ## How much?
 
