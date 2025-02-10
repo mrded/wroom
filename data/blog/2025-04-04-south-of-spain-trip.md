@@ -1,9 +1,9 @@
 ---
-title: South of Spain trip
-date: '2025-04-04'
+title: South of Spain Trip
+date: '2025-02-10'
 tags: ['trip']
 draft: false
-summarry: Trip to the south of Spain (10 days) in May 2025
+summarry: Trip to the south of Spain (10 days) during May 2025
 images: []
 authors: ['jaamin67']
 ---
@@ -60,6 +60,10 @@ Capileira - village in the Apujarra mountains
 Rhonda - Stunning town built on a gorge
 ![spain-ronda-bridge](https://github.com/user-attachments/assets/30a17931-a02f-4f8a-a6d0-c383e17f903b)
 
+Unlimited all you can eat paella at Ayo's in Nerja
+![ayo](https://github.com/user-attachments/assets/91fe3d64-5775-48f4-92ea-2d29e86a5411)
+
+
 ### The Roads
 
 Link to the motorcycle roads of Spain - Motorcycle Diaries
@@ -76,6 +80,7 @@ The Sierra Nevada - Ski resort in the South of Spain
 
 The south coast N340 road to Nerja and beyond
 ![N340_8593](https://github.com/user-attachments/assets/a76f0cfd-3304-4540-9f6b-69b87f5d8450)
+
 
 
 
