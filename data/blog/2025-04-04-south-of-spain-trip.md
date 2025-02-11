@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-02-10'
+date: '2025-02-11'
 tags: ['trip']
 draft: false
 summarry: Trip to the south of Spain (10 days) during May 2025
@@ -9,6 +9,11 @@ authors: ['jaamin67']
 ---
 
 ## When?
+
+Alternative dates - shorter ferry duration
+7th to 15th May. 
+
+Or 
 
 8th to 17th May 2025
 Duration: 10 days (7 days riding in Spain, 3 days on a ferry crossing)
@@ -20,10 +25,18 @@ Duration: 10 days (7 days riding in Spain, 3 days on a ferry crossing)
 ## How much?
 
 Cost Estimate: £1,500 per person (includes ferry, food, fuel, and 2 nights’ accommodation in northern Spain)
+Add £150 if taking the Plymouth to Santander ferry
 
 ## Transport
 
+Return ferry (1 night on the ferry) - Plymouth to Santander. £625 per person. With motorbike & shared cabin
+
+Or 
+
 Return ferry from Portsmouth to Bilbao (aprox £500 per person with a motorcycle and shared cabin). Ride from Bilbao to Salobrena in the south, which is around 600 miles depending on the route. 
+
+London to Portsmouth - 80 miles
+London to Plymouth - 225 miles
 
 ### Staying
 
