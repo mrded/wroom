@@ -22,6 +22,9 @@ Duration: 10 days (7 days riding in Spain, 3 days on a ferry crossing)
 
 2 nights in the north of Spain - most probably staying in the Rioja region. 4 or 5 nights staying the South of Spain at my place in Salobrena.Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira)
 
+## Weather?
+Average temperatures in the South of Spain during May are 25C. The north of the country is cooler at around 15C. 
+
 ## How much?
 
 Cost Estimate: £1,500 per person (includes ferry, food, fuel, and 2 nights’ accommodation in northern Spain)
