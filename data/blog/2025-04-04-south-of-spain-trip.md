@@ -62,7 +62,9 @@ Cantabria - Hoznayo
 
 ### South of Spain - Andalusia Province
 Salobrena - our base in the South of Spain
-<img src="https://github.com/user-attachments/assets/aa0e1aac-91ba-48ca-8a18-9ca27b490edd" height="500">
+![245307-Salobrena](https://github.com/user-attachments/assets/3d1399f2-9989-46c5-aae6-581305e7da5d)
+
+
 
 The coastline of Salobrena
 ![salo beach](https://github.com/user-attachments/assets/fb5c4021-21ab-4ae2-a005-9f6ea7d3ab5b)
@@ -74,16 +76,13 @@ Rhonda - Stunning town built on a gorge
 ![spain-ronda-bridge](https://github.com/user-attachments/assets/30a17931-a02f-4f8a-a6d0-c383e17f903b)
 
 Unlimited all you can eat paella at Ayo's in Nerja
-<img src="https://github.com/user-attachments/assets/91fe3d64-5775-48f4-92ea-2d29e86a5411" height="400">
+![paella-ayo-nerja](https://github.com/user-attachments/assets/7c153c61-d02c-4d60-bd5f-0842dba7844e)
+
 
 
 ### The Roads
 
-Link to the motorcycle roads of Spain [Motorcycle Diaries](https://motorcycle-diaries.com/en/roads).
-
-The mountain roads
-
-<img src="https://github.com/user-attachments/assets/6b1c9898-6b9c-4f3d-a49d-b96e65f3392c" height="300">
+Link to the motorcycle roads of Spain [Motorcycle Diaries](https://motorcycle-diaries.com/en/roads)
 
 Bacares to Velifique road
 ![Bacares - Velifique](https://github.com/user-attachments/assets/67c68e86-3df2-45c9-aa15-d0240ad6566a)
