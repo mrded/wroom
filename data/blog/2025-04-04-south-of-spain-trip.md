@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-02-17'
+date: '2025-03-05'
 tags: ['trip']
 draft: false
 summarry: Trip to the south of Spain (10 days) during May 2025
@@ -10,20 +10,16 @@ authors: ['jaamin67']
 
 ## When?
 
-Alternative dates - shorter ferry duration
-7th to 15th May. 
-
-Or 
-
-8th to 17th May 2025
-Duration: 10 days (7 days riding in Spain, 3 days on a ferry crossing)
+I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south
 
 ## Where?
 
 2 nights in the middle of Spain - most probably staying around Madrid - check out Avila. 4 or 5 nights staying the South of Spain at my place in Salobrena. Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira); southern rides along the coast.
 
 ## Weather?
-Average temperatures in the South of Spain during May are 25C. The north of the country is cooler at around 15C. 
+
+Will update depending when we go.
+
 
 ## How much?
 
