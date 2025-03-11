@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-03-05'
+date: '2025-03-11'
 tags: ['trip']
 draft: false
 summarry: Trip to the south of Spain (10 days) during May 2025
@@ -10,7 +10,8 @@ authors: ['jaamin67']
 
 ## When?
 
-I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south
+I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south. I've added some average annual temp charts for the north, middle & south of Spain. I'd recommend we run this trip during September, based on the temps being decent across the country. 
+
 
 ## Where?
 
