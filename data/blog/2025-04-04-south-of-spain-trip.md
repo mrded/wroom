@@ -12,6 +12,17 @@ authors: ['jaamin67']
 
 I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south. I've added some average annual temp charts for the north, middle & south of Spain. I'd recommend we run this trip during September, based on the temps being decent across the country. 
 
+### Average temperatures in Spain - North to South
+
+#### North
+![north](https://github.com/user-attachments/assets/4be70019-4363-4abd-b1e0-8434233b01fe)
+
+#### Middle of Spain
+![middle](https://github.com/user-attachments/assets/00292928-38a8-4a0f-8a21-36cef9522123)
+
+#### South
+![south](https://github.com/user-attachments/assets/57d519c7-33e7-4efc-970d-1037f12c1a72)
+
 
 ## Where?
 
