@@ -44,7 +44,7 @@ Return ferry (1 night on the ferry) - Plymouth to Santander. £625 per person. W
 
 Or 
 
-Return ferry from Portsmouth to Bilbao (aprox £500 per person with a motorcycle and shared cabin). Ride from Bilbao to Salobrena in the south, which is around 600 miles depending on the route. 
+Return ferry from Portsmouth to Bilbao (approx £500 per person with a motorcycle and shared cabin). Ride from Bilbao to Salobrena in the south, which is around 600 miles depending on the route. 
 
 London to Portsmouth - 80 miles
 London to Plymouth - 225 miles
