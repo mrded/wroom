@@ -23,6 +23,30 @@ I'm in the process of replanning this trip for post summer 2025, when the temper
 #### South
 ![south](https://github.com/user-attachments/assets/57d519c7-33e7-4efc-970d-1037f12c1a72)
 
+### Brittany Ferry Crossing Timetables for September 2025
+
+### Outward - UK to Spain
+
+#### Portsmouth to Santander
+![ports to santander sep](https://github.com/user-attachments/assets/a81b3dbf-5433-4555-bc6f-de9d899788fd)
+
+#### Portsmouth to Bilbao
+![port to bilb sep](https://github.com/user-attachments/assets/f57b9cd6-5bfe-4c59-b7da-e2437f266669)
+
+#### Plymouth to Santander
+![ply to sant sep](https://github.com/user-attachments/assets/a19026cc-27f9-4169-8157-fcfc58f31591)
+
+### Return - Spain to UK
+
+#### Santander to Portsmouth
+![sant to port sep](https://github.com/user-attachments/assets/58633418-31d6-49ce-861f-6dd0d230fa46)
+
+#### Bilbao to Portsmouth
+![bilb to port sep](https://github.com/user-attachments/assets/c52c5968-9af8-4b35-a809-98542a44a87e)
+
+#### Santander to Plymouth
+![sant to ply sep](https://github.com/user-attachments/assets/3ebb92c3-f8a5-452e-85e1-0619f28cf7ed)
+
 
 ## Where?
 
