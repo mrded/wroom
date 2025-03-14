@@ -1,9 +1,9 @@
 ---
 title: South of Spain Trip
-date: '2025-03-11'
+date: '2025-03-14'
 tags: ['trip']
 draft: false
-summarry: Trip to the south of Spain (10 days) during May 2025
+summary: Trip to the south of Spain (10 days) during September 2025
 images: []
 authors: ['jaamin67']
 ---
@@ -11,6 +11,10 @@ authors: ['jaamin67']
 ## When?
 
 I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south. I've added some average annual temp charts for the north, middle & south of Spain. I'd recommend we run this trip during September, based on the temps being decent across the country. 
+
+## Option - Flight & Motorcycle Hire
+There's also a flight and bike hire option that some may want to consider. The LMRC group run regular trips to the south of Spain, flying to Malaga and using a local bike hire company. The hire company can collect you from the airport. But this may only be an option for groups. Depending on when you fly, return flights from London to Malaga can be as low as £100. 
+Motorcycle hire company https://motohirespain.com
 
 ### Average temperatures in Spain - North to South
 
