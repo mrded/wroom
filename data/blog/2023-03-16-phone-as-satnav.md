@@ -54,7 +54,9 @@ I have tried all sorts of mounts from AliExpress. Currently, I use a **Quad Lock
   - If a message or call comes in, navigation often gets interrupted
   - If you need to make a call, navigation disappears
   - https://x.com/demenchuk/status/1898413953052537027
-  - To close this message - you need to stop![](/static/blog/2023-03-16-phone-as-satnav/mqbxpax3bgd6sdew-ndauthrby4.png)
+  - To close this message - you need to stop
+
+  ![](/static/blog/2023-03-16-phone-as-satnav/mqbxpax3bgd6sdew-ndauthrby4.png)
 
 - **Not convenient to use with gloves**
 
