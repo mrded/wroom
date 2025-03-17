@@ -12,6 +12,8 @@ The aim of this article is to compile all my complaints about using a mobile pho
 
 ![Navigation Image](/static/blog/2023-03-16-phone-as-satnav/lmsnmzzu-vpbgtyzxcuswuv7gmi.png)
 
+These points apply to both iPhones and Android devices—the issues discussed here are not platform-specific.
+
 I am not promoting any specific navigator, I just want to highlight the inherent problems of using a phone as a navigation device on a motorcycle.
 
 I have been asked for advice on motorcycle navigation multiple times, always assuming that the navigation must be done via a phone. I am tired of repeating myself, so I plan to simply share a link to this article in the future, where my subjective opinion on the topic is gathered.
@@ -85,9 +87,11 @@ Motorcycle-specific navigators like the **TomTom Rider 450/550** or **Garmin Zū
 
 ### Cons
 
-- **Navigators are slow**
-  - Planning a route directly on the device is a nightmare
-  - However, you can plan on a computer or phone, and syncing is very easy
+- **Navigators are slow**. Planning a route directly on the device is a nightmare. However, you can plan on a computer or phone, and syncing is very easy.
+- **High start-up cost**. Most people already own a smartphone, so they are not spending hundreds upfront.
+- **Initial setup hassle**. Setting up a dedicated satnav requires installing a separate mount, wiring for power, and syncing it with other devices, which can be a tedious process.
+- **Dwindling support**. Many manufacturers are shifting their focus to app-based navigation instead of hardware.
+- **Carrying another device**. A dedicated navigator is yet another gadget to pack, charge, and maintain. This is not a problem to me as I permanently leave the satnav on a bike.
 
 ## Cost Comparison
 
@@ -114,3 +118,5 @@ Unfortunately, I see a trend where dedicated navigators are becoming less popula
 When I asked whether there would be an update for the TomTom Rider, I was told that all efforts are focused on creating a **mobile app with a subscription model**. I understand the business motivation, but I think this is a huge mistake.
 
 I have come to the conclusion that **a phone is great for short day trips or city riding**, while **a dedicated navigator is necessary for long trips and harsh conditions**. Swapping their roles will only lead to frustration.
+
+A phone is also good enough to survive the first year of riding. A dedicated satnav is an investment and completely optional. However, it makes a huge difference. It’s similar to having an intercom—until you ride in a group with one, it’s hard to understand how much difference it makes.
