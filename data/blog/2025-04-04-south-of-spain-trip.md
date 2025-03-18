@@ -17,6 +17,11 @@ I've added some average annual temp charts for the north, middle & south of Spai
 There's also a flight and bike hire option that some may want to consider. The LMRC group run regular trips to the south of Spain, flying to Malaga and using a local bike hire company. The hire company can collect you from the airport. But this may only be an option for groups. Depending on when you fly, return flights from London to Malaga can be as low as £100. 
 Motorcycle hire company https://motohirespain.com
 
+### Bike Hire Example
+
+![image](https://github.com/user-attachments/assets/98c6372e-84b2-4e6d-8a31-3e4aab46d653)
+
+
 ### Average temperatures in Spain - North to South
 
 #### North
