@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-03-14'
+date: '2025-03-18'
 tags: ['trip']
 draft: false
 summary: Trip to the south of Spain (10 days) during September 2025
@@ -10,7 +10,8 @@ authors: ['jaamin67']
 
 ## When?
 
-I'm in the process of replanning this trip for post summer 2025, when the temperature drops into the 20's in the south. I've added some average annual temp charts for the north, middle & south of Spain. I'd recommend we run this trip during September, based on the temps being decent across the country. 
+Based on the average temperatures in the south of Spain and the ferry crossing timetable from Portsmouth, I'm proposing 12th to 21st September inclusive.
+I've added some average annual temp charts for the north, middle & south of Spain and the Brittany ferry timetables for September sailings.
 
 ## Option - Flight & Motorcycle Hire
 There's also a flight and bike hire option that some may want to consider. The LMRC group run regular trips to the south of Spain, flying to Malaga and using a local bike hire company. The hire company can collect you from the airport. But this may only be an option for groups. Depending on when you fly, return flights from London to Malaga can be as low as £100. 
