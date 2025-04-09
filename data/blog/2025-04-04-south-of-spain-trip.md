@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-03-18'
+date: '2025-04-09'
 tags: ['trip']
 draft: false
 summary: Trip to the south of Spain (approx. 10 days) during September 2025
@@ -75,6 +75,8 @@ I'm putting this section upfront so it's not missed. I'll update this as we go. 
 ## Where?
 
 2 nights in the middle of Spain - most probably staying around Madrid - check out Avila. 4 or 5 nights staying the South of Spain at my place in Salobrena. Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira); southern rides along the coast.
+
+Other POI's en-route to the south of Spain - Potes, N621 road from https://www.adventurebikerider.com/motorcycling-in-northern-spain-and-portugal/
 
 ## Weather?
 
