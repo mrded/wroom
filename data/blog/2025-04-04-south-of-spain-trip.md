@@ -65,6 +65,7 @@ I'm putting this section upfront so it's not missed. I'll update this as we go. 
 ### If riding your own motorcycle:
     1. You need to have full European breakdown cover, which includes recovering your bike and yourself to the UK and/or repairs to get you moving again. The group will do everything possible to assist you get going again, but if we cannot help and your only option is to be recovered by your breakdown service, then you will need to continue on your own. I use RAC for breakdown - RAC European breakdown https://www.rac.co.uk/breakdown-cover/european-breakdown-cover
     2. You need full European motorcycle insurance cover. The Green card is no longer required, just ensure you carry your insurance certificate and that your insurance covers you for EU riding. Please don't fall foul of the Spanish police (Guarda Civil), who just don't like people
+    3. In Spain you need to display a UK sticker for a UK registered motorcycle 
 
 #### Other:
 
