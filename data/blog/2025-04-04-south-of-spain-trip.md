@@ -17,7 +17,7 @@ I've added some average annual temp charts for the north, middle & south of Spai
 There's also a flight and bike hire option that some may want to consider. The LMRC group run regular trips to the south of Spain, flying to Malaga and using a local bike hire company. The hire company can collect you from the airport. But this may only be an option for groups. Depending on when you fly, return flights from London to Malaga can be as low as £100. 
 Motorcycle hire company https://motohirespain.com
 
-PLEASE NOTE: This trip will run from 15 to 20 Sep to allow the riders group to arrive and depart the south of Spain 
+PLEASE NOTE: This trip will run from 17 to 20 Sep to allow the riders group to arrive and depart the south of Spain. You can organise separate accommodation to extend your trip. 
 
 ### Bike Hire Example
 
