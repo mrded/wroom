@@ -1,6 +1,6 @@
 ---
 title: South of Spain Trip
-date: '2025-04-09'
+date: '2025-04-12'
 tags: ['trip']
 draft: false
 summary: Trip to the south of Spain (approx. 10 days) during September 2025
@@ -16,6 +16,7 @@ I've added some average annual temp charts for the north, middle & south of Spai
 ## Option - Flight & Motorcycle Hire
 There's also a flight and bike hire option that some may want to consider. The LMRC group run regular trips to the south of Spain, flying to Malaga and using a local bike hire company. The hire company can collect you from the airport. But this may only be an option for groups. Depending on when you fly, return flights from London to Malaga can be as low as £100. 
 Motorcycle hire company https://motohirespain.com
+Alternative hire company https://marbesolbike.com
 
 PLEASE NOTE: This trip will run from 17 to 20 Sep to allow the riders group to arrive and depart the south of Spain. You can organise separate accommodation to extend your trip. 
 
