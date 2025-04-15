@@ -78,7 +78,7 @@ I'm putting this section upfront so it's not missed. I'll update this as we go. 
 
 ## Where?
 
-2 nights in the middle of Spain - most probably staying around Madrid - check out Avila. 4 or 5 nights staying the South of Spain at my place in Salobrena. Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira); southern rides along the coast.
+2 nights in the middle of Spain - most probably staying around Madrid - check out Avila, Salamanca and Segovia. 4 or 5 nights staying the South of Spain at my place in Salobrena. Trips to Nerja (Ayo's amazing paella place on the beach); Rhonda (check out the gap); Apujarra mountain villages (ie. Capileira); southern rides along the coast.
 
 Other POI's en-route to the south of Spain - Potes, N621 road from https://www.adventurebikerider.com/motorcycling-in-northern-spain-and-portugal/
 
